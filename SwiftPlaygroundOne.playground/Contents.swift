@@ -34,7 +34,7 @@ var comparison = numberOne < numberTwo
 
 //Part 8
 
-var Nemo = 6
-var Dory = 2
+var Nemo = "Fish"
+var Dory = "Fish"
 
-var FishName = Nemo > Dory
+var FishName = Nemo == Dory
