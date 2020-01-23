@@ -20,7 +20,21 @@ var NewHope = Solo + Luke + Leia
 print( NewHope)
 //I have completed part 8
 
-// Assignment #2 Introduction to True and False
+//Assignment #2 Introduction to True and False
 
 var appState = false
 print(appState)
+
+//Part 5
+
+var numberOne = 5
+var numberTwo = 7
+
+var comparison = numberOne < numberTwo
+
+//Part 8
+
+var Nemo = 6
+var Dory = 2
+
+var FishName = Nemo > Dory
