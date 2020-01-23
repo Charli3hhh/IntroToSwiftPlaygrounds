@@ -19,3 +19,8 @@ var Leia = "I am from UHWO "
 var NewHope = Solo + Luke + Leia
 print( NewHope)
 //I have completed part 8
+
+// Assignment #2 Introduction to True and False
+
+var appState = false
+print(appState)
